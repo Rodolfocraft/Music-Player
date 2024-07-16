@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       src: "Resources/OP 1 Jujutsu Kaisen.mp3",
       img: "Resources/Ao No Sumika (1) (1).jpg",
-      title: "OP 1 Jujutsu Kaisen",
+      title: "OP 3 Jujutsu Kaisen",
       artist: "Ni idea we",
     },
   ];
